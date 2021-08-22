@@ -4,12 +4,12 @@ Lexical LA language Analyzer made in Java with ANTLR4 (4.9.2) for Compiler Const
 
 *Grupo composto por Vanderlei de Brito Junior, 636932*
 
-###Pré-requisitos
+### Pré-requisitos
 ```
 Java
 ```
 
-###Executando
+### Executando
 * Caso baixe o SOURCE:
 ```
 $ java -jar <la-lexical-analyzer>/target/la-lexical-analyzer-1.0-SNAPSHOT-jar-with-dependencies.jar <arquivo de entrada> <arquivo de saída>
