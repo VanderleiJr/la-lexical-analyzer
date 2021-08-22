@@ -6,7 +6,7 @@ Lexical LA language Analyzer made in Java with ANTLR4 (4.9.2) for Compiler Const
 
 ### Pré-requisitos
 ```
-Java
+(Mínimo) Java 11.0 OU Java 1.8
 ```
 
 ### Executando
